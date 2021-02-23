@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/solution01.dir/main.cpp.o CMakeFiles/solution01.dir/leptjson.c.o  -o solution01 
